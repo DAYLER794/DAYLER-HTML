@@ -1,0 +1,82 @@
+footer
+{
+    color: rgb(223, 4, 4); background-color: rgb(0, 0, 0); text-align: center;
+}
+footer:hover
+{
+    color: rgb(7, 7, 7); background-color: rgb(0, 0, 0); text-align: center;
+}
+body
+{
+    background-color: rgb(0, 0, 0); 
+}
+header
+{
+    color: aliceblue; text-align: center;
+}
+.grillacontenedora6partes
+{
+    display: grid;
+     grid-template-columns: 16% 16% 16% 16% 16% 16% ;
+}
+div.blue 
+{
+    background-color: rgb(12, 35, 110);text-align: center; color: aliceblue;
+}
+div.blue  :hover
+{
+    background-color: rgb(3, 10, 32);text-align: center; color: rgb(12, 118, 211);
+}
+div.lila
+{
+  background-color: indigo; text-align: center;color: aliceblue;
+}
+div.black
+{
+    background-color: rgb(1, 49, 49);text-align: center;color: aliceblue;
+}
+div.crac
+ {
+    background-color: rgb(13, 90, 204);text-align: center;color: aliceblue;
+  }
+  div.oo
+  {
+    color: aliceblue; background-color: rgb(17, 19, 19); text-align: center;
+  }
+  div.xx
+  {
+    color: antiquewhite;background-color: rgb(18, 20, 22); text-align:center ;
+  }
+  h2
+  { 
+    color: aquamarine;
+  
+  }
+
+  
+ .grillacontenedora3partes
+ {
+    display: grid; 
+    grid-template-columns: 50% 25% 25% ;
+}
+ div.crac:hover
+  {
+    background-color: rgb(95, 233, 16);text-align: center;color: aliceblue;
+  }
+  div.blue :hover
+{
+    background-color: rgb(46, 56, 199);text-align: center; color: rgb(85, 52, 52);
+}
+div.lila:hover
+{
+  background-color: rgb(10, 10, 10); text-align: center;color: rgb(197, 2, 2);
+}
+div.black:hover
+{
+    background-color: rgb(230, 236, 236);text-align: center;color: rgb(2, 2, 2);
+}
+div.crac:hover
+{
+    background-color: rgb(33, 241, 95);text-align: center;color: aliceblue;
+ }
+ 
